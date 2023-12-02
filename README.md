@@ -48,6 +48,7 @@ python manage.py startapp app_name
 2. Find and open the views.py
 3. Add your view into the views.py
 4. Create a urls.py file in the application folder
+5. 
 
 ## SIDENOTE
 1. CREATE YOUR VIEW FUNCTIONS
